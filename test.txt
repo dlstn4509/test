@@ -1,1 +1,6 @@
 1. test
+
+git status : 현재 상태 확인
+git add . : 현재 폴더 모든 파일 스테이징
+git commit -m 'test1' : 커밋
+git push origin master : 푸시
